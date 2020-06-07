@@ -1,0 +1,7 @@
+C:\Users\Piotrek\source\repos\planLekcji\planLekcji\obj\Debug\planLekcji.csprojAssemblyReference.cache
+C:\Users\Piotrek\source\repos\planLekcji\planLekcji\obj\Debug\planLekcji.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\source\repos\planLekcji\planLekcji\bin\Debug\planLekcji.exe.config
+C:\Users\Piotrek\source\repos\planLekcji\planLekcji\bin\Debug\planLekcji.exe
+C:\Users\Piotrek\source\repos\planLekcji\planLekcji\bin\Debug\planLekcji.pdb
+C:\Users\Piotrek\source\repos\planLekcji\planLekcji\obj\Debug\planLekcji.exe
+C:\Users\Piotrek\source\repos\planLekcji\planLekcji\obj\Debug\planLekcji.pdb
